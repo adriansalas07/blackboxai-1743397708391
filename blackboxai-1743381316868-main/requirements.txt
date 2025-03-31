@@ -1,0 +1,4 @@
+Flask==2.0.3
+Werkzeug==2.0.3
+python-dotenv==0.19.0
+simple-salesforce==1.11.4
